@@ -1,0 +1,17 @@
+# AWS IoT Certificates - NEVER COMMIT THESE!
+certificates/*.pem*
+certificates/*.crt
+certificates/*.key
+certificates/AmazonRootCA*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
