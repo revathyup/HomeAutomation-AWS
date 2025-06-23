@@ -1,0 +1,5 @@
+certificates/*.pem*
+certificates/*.crt
+certificates/*.key
+__pycache__/
+*.pyc
