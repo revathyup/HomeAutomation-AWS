@@ -13,7 +13,7 @@ import threading
 # =============================================================================
 
 # Replace with YOUR actual endpoint from AWS IoT Console → Settings
-ENDPOINT = "a38j1yxtgtu8ch-ats.iot.eu-north-1.amazonaws.com"
+ENDPOINT = "your-endpoint-here.iot.us-east-1.amazonaws.com"
 
 # Replace with your actual certificate file paths
 CERT_FILEPATH = "./certificates/device-certificate.pem.crt"
